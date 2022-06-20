@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.Туры" id="7beab0c8-53e9-43a5-b89d-22337d313cf2" configVersion="843062fdbf34fb4dae25daef5b790cfd00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="52214481-6e29-44d9-8d7c-30165c9da1cd" configVersion="d9bc39ecc583df4db7c171ca21d1204500000000"/>
+		<Metadata name="Language.Русский" id="2d7869f2-63b3-4b8b-b04d-07827bfd7d19" configVersion="f6607db424c1dc4485ad75fb9f480a8c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
