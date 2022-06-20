@@ -183,7 +183,12 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>Администратор</Role>
+			<Role>МенеджерТурАгентства</Role>
+			<Role>МенеджерТурОператора</Role>
+			<Role>Клиент</Role>
 			<Catalog>Туры</Catalog>
+			<Catalog>Отели</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

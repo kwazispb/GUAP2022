@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
 	<ConfigVersions>
-		<Metadata name="Catalog.Туры" id="7beab0c8-53e9-43a5-b89d-22337d313cf2" configVersion="a44f3a7c4aadd449a28692949117d62400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="52214481-6e29-44d9-8d7c-30165c9da1cd" configVersion="d9bc39ecc583df4db7c171ca21d1204500000000"/>
+		<Metadata name="Catalog.Отели" id="96ea07dc-4927-4f88-8311-bb95616ee623" configVersion="587b8ffb96b19a4ca66c5644300ab1ba00000000"/>
+		<Metadata name="Catalog.Туры" id="7beab0c8-53e9-43a5-b89d-22337d313cf2" configVersion="126162ced3a2d443a16519b1d4d8a74a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="52214481-6e29-44d9-8d7c-30165c9da1cd" configVersion="93202da7c16f0948a75447dda204f11b00000000"/>
 		<Metadata name="Language.Русский" id="2d7869f2-63b3-4b8b-b04d-07827bfd7d19" configVersion="f6607db424c1dc4485ad75fb9f480a8c00000000"/>
+		<Metadata name="Role.Администратор" id="9e31d99d-5549-435d-8228-1acc6cdf4647" configVersion="eee7559a43677c4c9d2d607072d2c72700000000"/>
+		<Metadata name="Role.Администратор.Rights" id="9e31d99d-5549-435d-8228-1acc6cdf4647.0" configVersion="a336ee0f508def43ae8fa112a548239500000000"/>
+		<Metadata name="Role.Клиент" id="7a0fae40-86b5-4762-9218-f52d338ca65f" configVersion="eb4a1ed750339b498bda3b98fd3d6ed300000000"/>
+		<Metadata name="Role.Клиент.Rights" id="7a0fae40-86b5-4762-9218-f52d338ca65f.0" configVersion="f93d6218cec01a459e63c7df791c2a6500000000"/>
+		<Metadata name="Role.МенеджерТурАгентства" id="1b389c8f-8eed-4861-a446-e986a241b813" configVersion="6015d3c2d1083d4f9fa9caa000a86a1400000000"/>
+		<Metadata name="Role.МенеджерТурАгентства.Rights" id="1b389c8f-8eed-4861-a446-e986a241b813.0" configVersion="ea8cd1189c311d47b94e8a22102a494f00000000"/>
+		<Metadata name="Role.МенеджерТурОператора" id="93495f1a-fc16-4d10-85f4-d9eaa018046c" configVersion="17a4adce189f0a4b974df980199f024d00000000"/>
+		<Metadata name="Role.МенеджерТурОператора.Rights" id="93495f1a-fc16-4d10-85f4-d9eaa018046c.0" configVersion="8c750d1588d6d34c9362bd566d6bdc7d00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
